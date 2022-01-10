@@ -19,5 +19,5 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch();
-    }
+    }//sua loi moi
 }//sửa trên pc
